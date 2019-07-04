@@ -41,9 +41,12 @@
   },
   "dependencies": {
     "ask-sdk": "^2.6.0",
+    "ask-sdk-core": "^2.6.0",
+    "ask-sdk-model": "^1.16.0",
     "moment-timezone": "^0.5.25"
   },
   "devDependencies": {
+    "@types/moment-timezone": "^0.5.12",
     "@types/i18next": "^8.4.3",
     "@types/i18next-sprintf-postprocessor": "^0.0.29",
     "@types/jest": "^23.3.3",
