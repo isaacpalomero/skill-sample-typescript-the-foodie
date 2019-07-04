@@ -1,12 +1,12 @@
-node_modules
+# gitignore
 coverage/
-lambda/custom/*
-test_output/*
+/node_modules/
 npm-debug.log*
 yarn-debug.log*
 yarn-error.log*
 .nyc_output
 out
-release
-release.zip
 
+# npmignore
+tests/
+.vscode/
